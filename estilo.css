@@ -7,3 +7,9 @@ td{
     font-size: 0.5rem;
     color: black
 }
+h1{
+    font-size: 2rem;
+    color: aquamarine;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    align-content: normal;
+}
