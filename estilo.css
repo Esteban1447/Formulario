@@ -1,9 +1,10 @@
 table{
     border-style: double;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 td{
     border-style: double;
-       
+    
     font-size: 0.5rem;
     color: black
 }
